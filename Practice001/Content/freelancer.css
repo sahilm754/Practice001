@@ -67,9 +67,13 @@ hr.star-primary:after {
 .img-centered {
   margin: 0 auto;
 }
-header {
+.home-header {
   text-align: center;
   background: rgba(0, 0, 0, 0) url("../images/home_bg.jpg") repeat scroll 0 0 / cover ;
+  color: white;
+}
+header{
+  text-align: center;
   color: white;
 }
 header .container {
