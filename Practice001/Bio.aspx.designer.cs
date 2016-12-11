@@ -11,7 +11,7 @@ namespace Practice001
 {
 
 
-    public partial class Default
+    public partial class Bio
     {
     }
 }
