@@ -102,6 +102,7 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="Projects.aspx" />
     <Content Include="Scripts\contact_me.js" />
     <Content Include="Scripts\freelancer.js" />
     <Content Include="Scripts\jqBootstrapValidation.js" />
@@ -163,6 +164,13 @@
     </Compile>
     <Compile Include="MasterHome.Master.designer.cs">
       <DependentUpon>MasterHome.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Projects.aspx.cs">
+      <DependentUpon>Projects.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Projects.aspx.designer.cs">
+      <DependentUpon>Projects.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services.aspx.cs">
