@@ -85,6 +85,7 @@
     <Content Include="Images\portfolio\circus.png" />
     <Content Include="Images\portfolio\game.png" />
     <Content Include="Images\portfolio\safe.png" />
+    <Content Include="Images\Sahil.jpg" />
     <Content Include="Images\portfolio\submarine.png" />
     <Content Include="Images\profile.png" />
     <Content Include="Images\SahilLogo.png" />
@@ -107,7 +108,6 @@
     <Content Include="Scripts\freelancer.js" />
     <Content Include="Scripts\jqBootstrapValidation.js" />
     <Content Include="Services.aspx" />
-    <Content Include="WebForm1.aspx" />
     <Content Include="MasterHome.Master" />
     <Content Include="MasterContact.Master" />
     <None Include="Scripts\jquery-2.2.4.intellisense.js" />
@@ -179,13 +179,6 @@
     </Compile>
     <Compile Include="Services.aspx.designer.cs">
       <DependentUpon>Services.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm1.aspx.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm1.aspx.designer.cs">
-      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
