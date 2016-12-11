@@ -10,7 +10,7 @@
 namespace Practice001 {
     
     
-    public partial class Portfolio {
+    public partial class MasterHome {
         
         /// <summary>
         /// head control.

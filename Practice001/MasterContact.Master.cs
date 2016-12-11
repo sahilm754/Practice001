@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Practice001
 {
-    public partial class Bio : System.Web.UI.Page
+    public partial class MasterContact : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

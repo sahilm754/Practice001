@@ -66,19 +66,27 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Bio.aspx" />
     <Content Include="Contact.aspx" />
-    <Content Include="Content\app.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\font-awesome.css" />
     <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\freelancer.css" />
     <Content Include="Default.aspx" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Images\home_bg.jpg" />
+    <Content Include="Images\portfolio\cabin.png" />
+    <Content Include="Images\portfolio\cake.png" />
+    <Content Include="Images\portfolio\circus.png" />
+    <Content Include="Images\portfolio\game.png" />
+    <Content Include="Images\portfolio\safe.png" />
+    <Content Include="Images\portfolio\submarine.png" />
+    <Content Include="Images\profile.png" />
+    <Content Include="Images\SahilLogo.png" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -93,11 +101,12 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
-    <Content Include="Projects.aspx" />
-    <Content Include="Scripts\app.js" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
-    <Content Include="Sahil_Portfolio.Master" />
+    <Content Include="Scripts\contact_me.js" />
+    <Content Include="Scripts\freelancer.js" />
+    <Content Include="Scripts\jqBootstrapValidation.js" />
+    <Content Include="WebForm1.aspx" />
+    <Content Include="MasterHome.Master" />
+    <Content Include="MasterContact.Master" />
     <None Include="Scripts\jquery-2.2.4.intellisense.js" />
     <Content Include="Scripts\jquery-2.2.4.js" />
     <Content Include="Scripts\jquery-2.2.4.min.js" />
@@ -110,17 +119,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Services.aspx" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bio.aspx.cs">
-      <DependentUpon>Bio.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Bio.aspx.designer.cs">
-      <DependentUpon>Bio.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Contact.aspx.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -138,34 +141,31 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Projects.aspx.cs">
-      <DependentUpon>Projects.aspx</DependentUpon>
+    <Compile Include="MasterContact.Master.cs">
+      <DependentUpon>MasterContact.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Projects.aspx.designer.cs">
-      <DependentUpon>Projects.aspx</DependentUpon>
+    <Compile Include="MasterContact.Master.designer.cs">
+      <DependentUpon>MasterContact.Master</DependentUpon>
     </Compile>
-    <Compile Include="Sahil_Portfolio.Master.cs">
-      <DependentUpon>Sahil_Portfolio.Master</DependentUpon>
+    <Compile Include="MasterHome.Master.cs">
+      <DependentUpon>MasterHome.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Sahil_Portfolio.Master.designer.cs">
-      <DependentUpon>Sahil_Portfolio.Master</DependentUpon>
+    <Compile Include="MasterHome.Master.designer.cs">
+      <DependentUpon>MasterHome.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Services.aspx.cs">
-      <DependentUpon>Services.aspx</DependentUpon>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Services.aspx.designer.cs">
-      <DependentUpon>Services.aspx</DependentUpon>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Assets\" />
-    <Folder Include="Images\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
