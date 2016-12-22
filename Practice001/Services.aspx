@@ -19,7 +19,10 @@
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">E-Commerce</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">At YES(Your every solution) we specialize in developing visually appealing, secure websites for you to have 
+                        your retail stores selling products directly to the public online, with good revenue generated thanks to our dedication to building
+                        your website customized to your product in every detail.
+                    </p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -27,7 +30,7 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Responsive Design</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">We pride ourself at YES(Your every solution) to create a website for you which is able to be viewed in all sizes of screens in different devices, such as differet monitor/laptop screens and phones.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -35,7 +38,7 @@
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Web Security</h4>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                    <p class="text-muted">Making a website is half the job, keeping it secure is the rest. As a result we value the product that your company sells and so we work hard to keep your website secure from any cyber threats. We use principles of application security, but apply them specifically to internet and web systems.</p>
                 </div>
             </div>
         </div>
