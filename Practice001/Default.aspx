@@ -49,7 +49,7 @@
                         <div class="caption">
                             <div class="caption-content">
                                 <i class="fa fa-search-plus fa-3x"></i>
-                                <h3>Projects    </h3>
+                                <h3>Projects</h3>
                             </div>
                         </div>
                         <!--change cake.png-->

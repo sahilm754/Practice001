@@ -22,6 +22,7 @@
                         <%-- Change Image--%>
                         <img src="images/portfolio/cabin.png" class="img-responsive" alt="">
                     </a>
+                    <h3 class="text-center">Project 1: Game Statistics Tracker (for Premier League - Soccer/Football)</h3>
                 </div>
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
@@ -33,6 +34,7 @@
                         <%-- Change Image--%>
                         <img src="images/portfolio/cake.png" class="img-responsive" alt="">
                     </a>
+                    <h3 class="text-center">Project 2: HTML Tables Generator</h3>
                 </div>
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
@@ -45,6 +47,7 @@
 
                         <img src="images/portfolio/circus.png" class="img-responsive" alt="">
                     </a>
+                    <h3 class="text-center">Project 3: Flowers Gallery</h3>
                 </div>
             </div>
         </div>
@@ -63,22 +66,17 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project 1</h2>
+                            <h2>Project 1: Game Statistics Tracker (for Premier League - Soccer/Football)</h2>
                             <hr class="star-primary">
                             <%-- Change Image--%>
                             <img src="images/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>This project deals with a website for Soccer enthusiasts who love to follow their soccer games and collect the game data.
+                                The website allows them to do this and has many features such as allowing the soccer game enthusiast to update the data they have
+                                previously entered, also delete data they have entered, and has web security also, among many other features.
+                            </p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                <li>Please view Project 1:
+                                    <strong><a href="http://sahilproject1.azurewebsites.net/">Project1-Soccer Game Tracker Website</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -101,22 +99,14 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project 2</h2>
+                            <h2>Project 2: HTML Tables Generator</h2>
                             <hr class="star-primary">
                             <%-- Change Image--%>
                             <img src="images/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                            <p>This website was created for creating HTML Tables for a hypothetical company called HTML Tables.inc, or C.H.T.I for short. As we recognized that creating tables is a common requirement for people with many different backgrounds, whether it be with HTML (for web developers), or simply a math teacher requiring to build a table in relation to preparing a quiz. It is due to this need that C.H.T.I started providing table generating services in this project. Whether you use it for recreational purposes, or for your work, we hope that this may help you for the purpose you decide to use it. To use the table generator simply type in the number of rows and columns you would like to have in your table (on the right hand side of the website), and enjoy your table that will be provided for you on the web page. We hope you enjoy our services, and feel free to share our services with others.</p>
+                             <ul class="list-inline item-details">
+                                <li>Please view Project 2:
+                                    <strong><a href="http://studentweb.cencol.ca/smahaj10/Assignment2-02/assignment2.html">Project 2-HTML Tables Generator</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -139,22 +129,14 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project 3</h2>
+                            <h2>Project 3: Flowers Gallery</h2>
                             <hr class="star-primary">
                             <%-- Change Image--%>
                             <img src="images/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <p>A project where the website has user interaction/functionality-well designed using HTML, CSS, and JavaScript. Allows user to view flower images, and select their favourite flower images which are collected, and displayed in their favourite flower images section.</p>
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                <li>Please view Project 3:
+                                    <strong><a href="http://studentweb.cencol.ca/smahaj10/Assignment3_3/assignment3.html">Project 3-Flower Gallery</a>
                                     </strong>
                                 </li>
                             </ul>
