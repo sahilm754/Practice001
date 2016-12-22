@@ -64,7 +64,7 @@
         
         </asp:ContentPlaceHolder>
 
-        <!-- Footer - Edit Contact/Footer in both master pages-->
+        <!-- Footer - Contact/Footer in both master pages-->
     <footer class="text-center">
         <div class="footer-above">
             <div class="container">

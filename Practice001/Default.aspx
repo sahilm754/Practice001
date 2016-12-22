@@ -39,8 +39,7 @@
                                 <h3>Services</h3>
                             </div>
                         </div>
-                        <!--change cabin.png-->
-                        <img src="images/portfolio/cabin.png" class="img-responsive" alt="">
+                        <img src="Images/Services.jpg" class="img-responsive" alt=""/>
                     </a>
                     <h3 class="text-center">Services</h3>
                 </div>
@@ -51,9 +50,8 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                                 <h3>Projects</h3>
                             </div>
-                        </div>
-                        <!--change cake.png-->
-                        <img src="images/portfolio/cake.png" class="img-responsive" alt="">
+                        </div>                        
+                        <img src="Images/Projects.JPG" class="img-responsive" alt=""/>
                     </a>
                     <h3 class="text-center">Projects</h3>
                 </div>

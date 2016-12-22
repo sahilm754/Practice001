@@ -19,8 +19,8 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <%-- Change Image--%>
-                        <img src="images/portfolio/cabin.png" class="img-responsive" alt="">
+                        <%-- Mini Image 1--%>
+                        <img src="Images/Project1-Game-Min.jpg" class="img-responsive" alt=""/>
                     </a>
                     <h3 class="text-center">Project 1: Game Statistics Tracker (for Premier League - Soccer/Football)</h3>
                 </div>
@@ -31,8 +31,8 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <%-- Change Image--%>
-                        <img src="images/portfolio/cake.png" class="img-responsive" alt="">
+                        <%-- Mini Image 2--%>
+                        <img src="Images/Project2-htmlTableGen-Min.JPG" class="img-responsive" alt=""/>
                     </a>
                     <h3 class="text-center">Project 2: HTML Tables Generator</h3>
                 </div>
@@ -43,9 +43,8 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                            <%-- Change Image--%>
-
-                        <img src="images/portfolio/circus.png" class="img-responsive" alt="">
+                            <%-- Mini Image 3--%>
+                        <img src="Images/Project3-FlowersGallery-Min.JPG" class="img-responsive" alt=""/>
                     </a>
                     <h3 class="text-center">Project 3: Flowers Gallery</h3>
                 </div>
@@ -53,7 +52,7 @@
         </div>
     </section>
 
-    <!-- Portfolio Modals -->
+    <!-- Portfolio Models -->
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -68,8 +67,8 @@
                         <div class="modal-body">
                             <h2>Project 1: Game Statistics Tracker (for Premier League - Soccer/Football)</h2>
                             <hr class="star-primary">
-                            <%-- Change Image--%>
-                            <img src="images/portfolio/cabin.png" class="img-responsive img-centered" alt="">
+                            <%-- Medium  Image 1--%>
+                            <img src="Images/Project1-Game-Med.jpg" class="img-responsive img-centered" alt=""/>
                             <p>This project deals with a website for Soccer enthusiasts who love to follow their soccer games and collect the game data.
                                 The website allows them to do this and has many features such as allowing the soccer game enthusiast to update the data they have
                                 previously entered, also delete data they have entered, and has web security also, among many other features.
@@ -101,8 +100,8 @@
                         <div class="modal-body">
                             <h2>Project 2: HTML Tables Generator</h2>
                             <hr class="star-primary">
-                            <%-- Change Image--%>
-                            <img src="images/portfolio/cake.png" class="img-responsive img-centered" alt="">
+                            <%-- Medium  Image 2--%>
+                            <img src="Images/Project2-htmlTableGen-Med.JPG" class="img-responsive img-centered" alt=""/>
                             <p>This website was created for creating HTML Tables for a hypothetical company called HTML Tables.inc, or C.H.T.I for short. As we recognized that creating tables is a common requirement for people with many different backgrounds, whether it be with HTML (for web developers), or simply a math teacher requiring to build a table in relation to preparing a quiz. It is due to this need that C.H.T.I started providing table generating services in this project. Whether you use it for recreational purposes, or for your work, we hope that this may help you for the purpose you decide to use it. To use the table generator simply type in the number of rows and columns you would like to have in your table (on the right hand side of the website), and enjoy your table that will be provided for you on the web page. We hope you enjoy our services, and feel free to share our services with others.</p>
                              <ul class="list-inline item-details">
                                 <li>Please view Project 2:
@@ -131,8 +130,8 @@
                         <div class="modal-body">
                             <h2>Project 3: Flowers Gallery</h2>
                             <hr class="star-primary">
-                            <%-- Change Image--%>
-                            <img src="images/portfolio/circus.png" class="img-responsive img-centered" alt="">
+                            <%-- Medium Image 3--%>
+                            <img src="Images/Project3-FlowersGallery-Med.JPG" class="img-responsive img-centered" alt=""/>
                             <p>A project where the website has user interaction/functionality-well designed using HTML, CSS, and JavaScript. Allows user to view flower images, and select their favourite flower images which are collected, and displayed in their favourite flower images section.</p>
                             <ul class="list-inline item-details">
                                 <li>Please view Project 3:
