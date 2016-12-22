@@ -36,8 +36,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">  
                       <%-- Add mission statement--%>
-
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Our mission is to provide our clients with the utmost satisfaction. By doing so, we treat every client's website with care. We strive for a modern website layout and high organic search engine rankings.</p>
                 </div>
             </div>
         </div>
@@ -54,7 +53,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">  
                       <%-- Add Bio Details--%>
 
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>My name is Sahil Mahajan, an optimist who loves to work hard while making websites for my clients. I have been developing professional websites for over a year now, and have been dedicated to improving my skills in this area. Some of my best work includes creating a website for Soccer enthusiasts to enter details of a game they are watching over a season. Another one includes a website for a fantasy burger restaurant. As per our saying “Your every solution (YES),” I try to draw on every ounce of my experience from my current education as a Software Engineering Student at Centennial College. I hope that as you choose to work with myself in building your dream website, we can find a good time to sit down, and take the first step forward! Feel free to contact us through our Contact page.</p>
                 </div>
             </div>
         </div>
